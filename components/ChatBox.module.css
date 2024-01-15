@@ -1,6 +1,6 @@
 .chatHolder {
     display: grid;
-    grid-template-rows: 1fr 100px;
+    grid-template-rows: 1fr 101px;
 }
 
 .chatText {
