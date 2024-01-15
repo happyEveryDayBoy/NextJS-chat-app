@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Realtime Chat App with Ably, NextJS and Vercel with Global</title>
+        <title>Realtime Chat App with Ably, NextJS and Vercel</title>
         <link rel="icon" href="https://static.ably.dev/motif-red.svg?nextjs-vercel" type="image/svg+xml" />
       </Head>
 
