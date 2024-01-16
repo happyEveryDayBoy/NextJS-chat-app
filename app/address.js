@@ -2,7 +2,7 @@
 export default function address() {
   return (
     <div className="container">
-        address
+       Chat address
     </div>
   )
 }
